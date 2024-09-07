@@ -13,6 +13,7 @@
     "@quasar/extras": "^1.16.12",
     "@vueuse/core": "^10.11.0",
     "@vueuse/nuxt": "^10.11.0",
+    "dayjs": "^1.11.13",
     "lodash-es": "^4.17.21",
     "nuxt": "^3.12.4",
     "nuxt-quasar-ui": "^2.1.3",
